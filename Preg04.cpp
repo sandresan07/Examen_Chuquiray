@@ -16,7 +16,7 @@ int main(){
 	}
 	else{
 		cout<<"no es perfecto";
-	}
+	}     
 	
 	
 }
